@@ -1,0 +1,1 @@
+Hello! My name is Valerio, I do hope you like this simple Python app :D
